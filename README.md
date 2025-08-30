@@ -1,2 +1,2 @@
 # FUTURE_DS_01
-This repository contains my tasks and projects from the Future Interns Data Science Internship
+This repository contains my tasks, assignments, and final project for the Future Interns Data Science Internship (Aug–Sept 2025).
